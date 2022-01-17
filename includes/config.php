@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','sql108.epizy.com');
-define('DB_USER','epiz_30833445');
-define('DB_PASS','VPDyhY11IJ1Y');
-define('DB_NAME','epiz_30833445_smart');
+define('DB_HOST','db4free.net');
+define('DB_USER','cloudproject');
+define('DB_PASS','cloud123');
+define('DB_NAME','cloudprojectdb');
 // Establish database connection.
 try
 {
