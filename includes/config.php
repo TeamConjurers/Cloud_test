@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','remotemysql.com');
-define('DB_USER','HDXEzB93Nu');
-define('DB_PASS','asb94fnJLA');
-define('DB_NAME','HDXEzB93Nu');
+define('DB_HOST','sql108.epizy.com');
+define('DB_USER','epiz_30833445');
+define('DB_PASS','VPDyhY11IJ1Y');
+define('DB_NAME','epiz_30833445_smart');
 // Establish database connection.
 try
 {
