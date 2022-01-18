@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','db4free.net');
-define('DB_USER','cloudproject');
-define('DB_PASS','cloud123');
-define('DB_NAME','cloudprojectdb');
+define('DB_HOST','remotemysql.com');
+define('DB_USER','HDXEzB93Nu');
+define('DB_PASS','asb94fnJLA');
+define('DB_NAME','HDXEzB93Nu');
 // Establish database connection.
 try
 {
